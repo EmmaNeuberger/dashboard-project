@@ -1,0 +1,57 @@
+body {
+    color: black;
+    font-family: 'Georgia';
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+
+.jumbotron {
+  background-color: #5cc19e;
+}
+
+#selCounty {
+  text-align: center;
+}
+
+.panel-heading {
+  background-color: #27608a;
+}
+
+.panel-title {
+  color: white;
+}
+
+h3{
+  color: black;
+}
+
+h2 {
+  color: #f49439;
+}
+h1{
+  text-align: center;
+} 
+
+p {
+  color: black;
+}
+
+select {
+  width: 50%;
+}
+
+.well {
+  text-align: center;
+  background-color: #f49439;
+}
+
+
+
+/* #167070 Dark Teal */
+/* #44857D Light Teal */
+/* #FE6625 Orange */
+/* #FB9334 Light Orange */
+/* #414A4F Charcoal */
+/* #003D59 Navy */
