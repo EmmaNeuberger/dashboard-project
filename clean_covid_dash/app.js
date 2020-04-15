@@ -1,3 +1,8 @@
+// INstall New JS library
+var Stardust = require("stardust-core");
+var StardustWebGL = require("stardust-webgl");
+
+
 // # Plotly covid 
 
 // Populate dropdown menu
